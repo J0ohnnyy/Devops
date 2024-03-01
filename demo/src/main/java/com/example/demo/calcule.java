@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class Calcul{
+public class calcule{
 
     public int add(int a , int b) {
 
